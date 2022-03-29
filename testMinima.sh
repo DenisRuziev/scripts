@@ -6,7 +6,7 @@ do
 # Logo
 
 echo "============================================================"
-curl -s https://raw.githubusercontent.com/DenisRuziev/scripts/blob/main/testMinima.sh | bash
+curl -s https://https://raw.githubusercontent.com/DenisRuziev/scripts/main/testMinima.sh | bash
 echo "============================================================"
 
 
